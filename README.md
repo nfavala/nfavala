@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> Hi, I'm Natalia Favala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/8F3ahgDjOjEZ26pvP1" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funny-art-girl-8F3ahgDjOjEZ26pvP1">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full stack dev student at<a>Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="30"></br>
   
 
