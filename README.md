@@ -3,7 +3,7 @@
 <h2> I'm Natalia Favala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<p><em>Full stack dev student at <a> Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="40"></br>
+<p><em>Full stack dev student at <a> Henry</a><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="40"></br>
 
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala-fullstack/)
 
