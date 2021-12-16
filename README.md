@@ -5,8 +5,9 @@
 
 <p><em>Full stack dev student at <a> Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="35"></br>
 
-
-[!["Linkedin:" /natalia-favala](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala/)
+<p>LinkedIn</p>
+[![Linkedin: /natalia-favala](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala/)
+<p>Github</p>
 [![GitHub nfavala](https://img.shields.io/github/followers/nfavala?label=follow&style=social)](https://github.com/nfavala)
 
 
