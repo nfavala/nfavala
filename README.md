@@ -6,7 +6,7 @@
 <p><em>Full stack dev student at <a> Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="35"></br>
 
 [![Linkedin: /natalia-favala](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala/)
-____________________________________________________________________
+
 [![GitHub nfavala](https://img.shields.io/github/followers/nfavala?label=follow&style=social)](https://github.com/nfavala)
 
 
@@ -15,8 +15,8 @@ ____________________________________________________________________
 ```javascript
 const Nati = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React/Redux, Node js, Express js, Sequelize SQL],
+  code: [Javascript, HTML, CSS, SQL],
+  tools: [React/Redux, Node js, Express js, Sequelize, PostgreSQL],
   };
 ```
 
