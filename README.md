@@ -4,7 +4,7 @@
 
 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="40"></br> <p><em>Full stack dev student at <a>Henry</a>
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="40"> ### Full stack dev student at Henry.
 
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala-fullstack/)
 
