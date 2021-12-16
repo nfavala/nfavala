@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h2> Hi, I'm Natalia Favala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm Natalia Favala! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<p><em>Full stack dev student at <a> Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="35"></br>
+<p><em>Full stack dev student at <a> Henry</a><img src="https://assets.soyhenry.com/assets/LOGO-HENRY-03.png" width="40"></br>
 
-[![Linkedin: /natalia-favala](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala/)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala-fullstack/)
 
 [![GitHub nfavala](https://img.shields.io/github/followers/nfavala?label=follow&style=social)](https://github.com/nfavala)
 
