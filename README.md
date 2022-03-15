@@ -17,7 +17,7 @@
 ```javascript
 const Nati = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, SQL],
+  code: [Javascript, HTML, CSS, SQL, APEX],
   tools: [React/Redux, Node js, Express js, Sequelize, PostgreSQL],
   };
 ```
@@ -26,7 +26,7 @@ const Nati = {
 * Sass
 * Adobe Illustrator
 * Adobe After Effects
-* Salesforce platform
+* Apex
 * Google Analytics
 
 
