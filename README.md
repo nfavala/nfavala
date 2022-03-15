@@ -4,7 +4,7 @@
 
 
 
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="23"> _Full stack dev student at Henry, sports lover and **queer**._
+ _Full stack dev, sports lover and **queer**._
 
 ## How to contact me:
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala-fullstack/) **LinkedIn** </br>
