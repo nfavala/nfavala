@@ -4,7 +4,7 @@
 
 
 
- _Full stack dev, sports lover and **queer**._
+ _Full stack dev, Salesforce Dev, sports lover and **queer**._
 
 ## How to contact me:
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natalia-favala/)](https://www.linkedin.com/in/natalia-favala-fullstack/) **LinkedIn** </br>
@@ -23,11 +23,10 @@ const Nati = {
 ```
 ## Other knowledges:
 
-* Sass
 * Adobe Illustrator
-* Adobe After Effects
-* Apex
-* Google Analytics
+* Copado devOps
+* OmniStudio tools
+* Jira / Bitbucket.
 
 
 ## Projects
